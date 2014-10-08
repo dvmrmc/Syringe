@@ -1,7 +1,7 @@
 Syringe
 =======
 
-Objective-C Srynge to help with method injection
+Objective-C Syringe for Injection. This library will help you changing method implementation in a class at run time. 
 
 ## Install
 Download the source code, clone it or submodule it. Everything you need is under "Syringe" folder. Drag & Drop it to your project to start working with this tasty code.
@@ -26,6 +26,9 @@ You can restore any modification by invoking the 'restoreClassMethod:fromClass:'
 
 ## Author
 * Created by [David Martin](http://www.github.com/cerberillo)
+
+## Contributing
+Feel free to add new features by pullrequesting.
 
 ## License 
 This library is released under MIT License
