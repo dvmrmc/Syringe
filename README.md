@@ -1,6 +1,9 @@
 Syringe
 =======
 
+![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)
+![platform](http://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)
+
 Objective-C Syringe for Injection. This library will help you changing method implementation in a class at run time. 
 
 ## Install
